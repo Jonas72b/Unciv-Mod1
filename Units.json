@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arminio",
+    "unitType": "Mounted",
+    "movement": 3,
+    "strength": 40,
+    "range": 2,
+    "cost": 50,
+    "requiredTech": "Cavalry",
+    "obsoleteTech": "Gunpowder",
+    "uniques": [
+      "May move after attacking",
+      "[1] extra attacks per turn",
+      "Ignores terrain cost"
+    ]
+  }
+]
